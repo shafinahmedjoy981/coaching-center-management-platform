@@ -1,0 +1,6 @@
+{
+  "name": "TutorLoop",
+  "description": "Mobile-first tuition CRM and automation tool for Bangladeshi tutors and coaching centers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
